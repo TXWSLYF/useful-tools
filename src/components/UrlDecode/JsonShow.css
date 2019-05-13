@@ -1,0 +1,18 @@
+.json-show-container {
+  padding: 10px;
+  word-break: break-all;
+  flex-basis: 50%;
+  font-weight: bold;
+}
+
+.json-show-container > .json-item {
+  margin-bottom: 5px;
+}
+
+.json-show-container > .json-item > .json-item__key {
+  color: #92278f;
+}
+
+.json-show-container > .json-item > .json-item__value {
+  color: #3ab54a;
+}
